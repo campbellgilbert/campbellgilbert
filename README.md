@@ -1,9 +1,12 @@
-I'm a senior at Occidental College in Los Angeles. I'm planning to earn my B.A. in Computer Science with a minor in English by Spring 2024; I'm also taking courses at CalTech.
+howdy! i'm campbell, and i'm a senior at occidental college & caltech. i'm getting my bachelor's in computer science with a minor in english in a few months. i do a lot of fun cool stuff; currently i'm working on a benchmark to evaluate LLM feedback on analytical essays (for school), and a seinfeld-themed reverse turing test to assess how effective people are at differentiating between vision model-generated and meatspace-photographed images (for fun). another side project is the website i made for my childhood au pair in nepal. my biggest project is RAVENDESK which is in my senior comps repo, it's an AI-powered word processor that i worked really hard on and i think is very cool. the senior comps repo pinned below has that project and the 10pg research paper i wrote on the topic!
 
-I have a lot of experience with Python, C, C#, and Java, as well as some experience with JavaScript, HTML, and CSS.
-This site contains my past projects for Algorithms Analysis, Machine Learning, Graphics, Game Design, and Data Structures, and will be periodically updated with work done for my courses, as well as personal work. I've also worked on the Moore Lab of Zoology OBird project.
+i know a lot of computer languages (python, c#, java, c, js) and i have a particular interest in large language & vision models. some fun facts about me are that i have really terrible handwriting, i can untie any knot, and my favorite color is lilac. i'm also a researcher on the moore lab obird project! which i'm super proud of! you can find some of my models here: https://sketchfab.com/MooreLab/collections/moore-lab-of-zoology-a0098d4ddd224fda921d749c788aa90c
 
-Thank you for reading! I'd love it if you said hi.
-- Email (Home): campbell.gilbert@gmail.com
-- Email (School): gilbertc@oxy.edu
-- LinkedIn: linkedin.com/in/campbell-gilbert-952b701b1
+this repo has my past projects for my courses*, my resume (linked below), and some personal work as mentioned above. 
+*machine learning, graphics, game design, algorithms analysis, etc.
+
+thanks for reading! i'd love it if you said hi.
+- email (home): campbell.gilbert@gmail.com
+- email (school): gilbertc@oxy.edu OR cjgilber@caltech.edu
+- linkedin: linkedin.com/in/campbell-gilbert-952b701b1
+- twitter/x: nice try fed
